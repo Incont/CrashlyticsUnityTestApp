@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" package="ru.whalekit.networksecurityconfig">
+  <application android:networkSecurityConfig="@xml/network_security_config">
+  </application>
+</manifest>
